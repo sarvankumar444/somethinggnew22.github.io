@@ -89,4 +89,4 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to reach out to me if you have any questions or feedback:
 
 - GitHub: [sarvankumar444](https://github.com/sarvankumar444)
-- Email: soulsarvankumar007.com
+- Email: soulsarvankumar007@gmail.com
